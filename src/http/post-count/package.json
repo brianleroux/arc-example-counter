@@ -1,0 +1,7 @@
+{
+  "name": "testjwe-post-count",
+  "dependencies": {
+    "@architect/data": "^2.0.8",
+    "@architect/functions": "^1.10.1"
+  }
+}
